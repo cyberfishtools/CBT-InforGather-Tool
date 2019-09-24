@@ -14,7 +14,6 @@
 ## Dependencies:
 
   -  BASH
-  -  If you are using Windows, [Install UBUNTU Subsystem on Windows](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
   -  Wget
   -  Whois
   -  [Nmap](https://nmap.org/download.html)
@@ -25,13 +24,13 @@
  1. Download
  - clone through termial :
   ``` 
-  git clone https://github.com/rpranshu/CBT-InforGather-Tool .git
+  git clone https://github.com/cyberfishtools/CBT-InforGather-Tool.git
   ```
   2. Run
   -in terminal
   ```
-  chmod +x CBT-InforGather-Tool .sh
-  ./CBT-InforGather-Tool .sh
+  chmod +x CBT-InforGather-Tool.sh
+  ./CBT-InforGather-Tool.sh
   ```
 # Donate
 Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/maheshnama098)
