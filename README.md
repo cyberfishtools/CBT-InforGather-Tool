@@ -1,13 +1,13 @@
-# CBT-InforGather-Tool  [![GitHub release](https://img.shields.io/badge/Built--With-<3-green.svg?style=flat-square?&colorA=e76b36&?&colorB=d55b33)]() [![Support](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/rpranshu)
 
-**CBT-InforGather-Tool  is an all in one basic information gathering CLI tool made purely in BASH**
+
+**CBT-InforGather-Tool  is an all in one Info gathering CLI tool made purely in BASH**
 
 # CAUTION:
-**This tool is purely for educational purposes, don't use it on any website *without* the permission of it's owner.**
+**USe the Tool for legal purposes only**
 **The user is responsible for his/her actions!**
 
 
-# Update:  [![GitHub release](https://img.shields.io/badge/Release-v2-green.svg?&colorA=024a70&?&colorB=0779b5)]()
+# Update:  [![GitHub release](https://img.shields.io/badge/Release-v1-green.svg?&colorA=024a70&?&colorB=0779b5)]()
 
 ### Cloudflare detection is live!!!
 
