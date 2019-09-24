@@ -1,11 +1,6 @@
-# EternalView [![GitHub release](https://img.shields.io/badge/Built--With-<3-green.svg?style=flat-square?&colorA=e76b36&?&colorB=d55b33)]() [![Support](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/rpranshu)
+# CBT-InforGather-Tool  [![GitHub release](https://img.shields.io/badge/Built--With-<3-green.svg?style=flat-square?&colorA=e76b36&?&colorB=d55b33)]() [![Support](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/rpranshu)
 
-**EternalView is an all in one basic information gathering CLI tool made purely in BASH**
-
-
-![eternalview in action](https://raw.githubusercontent.com/rpranshu/HTML-Website1/master/eternal.gif)
-
-**EternalView in action**
+**CBT-InforGather-Tool  is an all in one basic information gathering CLI tool made purely in BASH**
 
 # CAUTION:
 **This tool is purely for educational purposes, don't use it on any website *without* the permission of it's owner.**
@@ -30,13 +25,13 @@
  1. Download
  - clone through termial :
   ``` 
-  git clone https://github.com/rpranshu/EternalView.git
+  git clone https://github.com/rpranshu/CBT-InforGather-Tool .git
   ```
   2. Run
   -in terminal
   ```
-  chmod +x EternalView.sh
-  ./EternalView.sh
+  chmod +x CBT-InforGather-Tool .sh
+  ./CBT-InforGather-Tool .sh
   ```
 # Donate
 Donate generously! [![Support](https://www.buymeacoffee.com/assets/img/custom_images/white_img.png)](https://www.buymeacoffee.com/maheshnama098)
