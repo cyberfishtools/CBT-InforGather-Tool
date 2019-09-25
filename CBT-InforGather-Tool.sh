@@ -238,17 +238,17 @@ echo "Press any key to continue";
 tput sgr0;
 read key;
 clear
-./EternalView.sh;
+./CBT-InforGather-Tool.sh;
  elif [[ opt -eq '12' ]]; #AUTOPWN
  then tput setaf 12;
  echo "Make sure that Autopwn is in the same folder";
  chmod +x Autopwn.sh;
 ./Autopwn.sh;
 clear
-./EternalView.sh;
+./CBT-InforGather-Tool.sh;
  elif [[ opt -eq '13' ]]; #RELOAD
  then clear
-./EternalView.sh;
+./CBT-InforGather-Tool.sh;
  elif [[ opt -eq '14' ]]; #EXIT
  then clear;
  exit;
@@ -261,5 +261,5 @@ else
 	tput sgr0;
 	read key;
 	clear
-	./EternalView.sh;
+	./CBT-InforGather-Tool.sh;
  fi;
